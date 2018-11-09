@@ -1,0 +1,4 @@
+jake,6
+kevin,9
+lici,10
+josh,10
